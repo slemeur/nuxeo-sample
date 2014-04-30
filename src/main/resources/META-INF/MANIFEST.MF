@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: My Sample
+Bundle-SymbolicName: org.nuxeo.mysample
+Bundle-Version: 1.0.0
+Bundle-Localization: plugin
+Bundle-Vendor: Nuxeo
+Nuxeo-Component: OSGI-INF/operation-contrib.xml
